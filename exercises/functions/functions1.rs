@@ -1,7 +1,8 @@
 // functions1.rs
 // Make me compile! Scroll down for hints :)
 
-fn main() {
+
+fn call_me() {
     call_me();
 }
 
